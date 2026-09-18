@@ -1,0 +1,12 @@
+# Stale pre-git artifact: the old CLI-wrapper implementation, superseded by
+# git history. Kept on disk for reference but not tracked.
+server.mjs.broken-backup
+
+# Ad-hoc backups
+*.backup
+*.backup-*
+*.bak
+
+node_modules/
+*.log
+.DS_Store
